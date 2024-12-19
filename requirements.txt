@@ -1,0 +1,12 @@
+FastAPI
+python-telegram-bot
+beautifulsoup4
+requests
+pydantic
+numpy
+scikit-learn
+openai
+motor  # For MongoDB, if using
+sqlite3  # For SQLite, if using
+pymongo
+apscheduler
